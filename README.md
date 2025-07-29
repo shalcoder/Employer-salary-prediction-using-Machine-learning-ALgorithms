@@ -1,4 +1,4 @@
-# 🤖 AI/ML/Data Science Salary Prediction System
+# 🤖 Employer-salary-prediction-using-Machine-learning-ALgorithms
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io)
