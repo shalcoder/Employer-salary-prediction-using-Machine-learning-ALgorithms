@@ -4,6 +4,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-orange.svg)](https://scikit-learn.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Live App](https://img.shields.io/badge/Live-Demo-brightgreen?logo=streamlit)](https://employersalarypredictor.streamlit.app/)
 
 A comprehensive machine learning system that predicts AI/ML/Data Science salaries based on job characteristics, experience level, location, and company details. Built with Python, scikit-learn, and deployed using Streamlit.
 
@@ -53,3 +54,6 @@ The project uses the **AI/ML/Data Science Salary Dataset** from [aijobs.net](htt
 ### Installation
 
 1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/employer-salary-prediction-using-machine-learning-algorithms.git
+   cd employer-salary-prediction-using-machine-learning-algorithms
